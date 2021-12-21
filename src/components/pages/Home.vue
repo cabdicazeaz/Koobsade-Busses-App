@@ -11,7 +11,7 @@
 
 <div class="gap-x-16 bg-white w-1/2 shadow-lg shadow-cyan-500"  >
 <div class="mt-8 text-center">
-    <h1 class="font-bold text-3xl underline">Booking Form</h1></div>
+    <h1 class="font-bold text-3xl underline text-green-400">Booking Form</h1></div>
     <div class="mt-8 space-y-8 ">
         <div class="px-4">
 <input type="text" placeholder="Enter your Full Name" class="ring-2 focus:ring-2 w-full rounded-sm h-8" ></div>
